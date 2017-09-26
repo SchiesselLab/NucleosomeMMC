@@ -15,7 +15,7 @@ This is a back-to-basics set of C code performing Mutation Monte Carlo (MMC) on 
     * `Ctract.seq`: Sequence file containing a sequence of 147 C's.
 - `Parameterization`: Directory containing model parameterization files.
     * `Crystallography`: Parameters for the Rigid Base Pair model derived from crystallographic experiments (Olson et al. 1998).
-    * `MoleculateDynamics`: Parameters for the Rigid Base Pair model derived from molecular dynamics simulations (Lankas et al. 2003).
+    * `MolecularDynamics`: Parameters for the Rigid Base Pair model derived from molecular dynamics simulations (Lankas et al. 2003).
 - `Example_Output`: Some example output of the program, as described below.
 
 ### Example:
