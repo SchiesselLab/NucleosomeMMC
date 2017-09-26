@@ -1,8 +1,3 @@
----
-geometry: margin=2cm
-output: pdf_document
----
-
 Mutation Monte Carlo Simulation of the Nucleosome
 -------------------------------------------------
 
