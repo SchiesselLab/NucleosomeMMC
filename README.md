@@ -24,7 +24,7 @@ This is a back-to-basics set of C code performing Mutation Monte Carlo (MMC) on 
 
 As an example, some output is provided, run at beta = 1 (inverse temperature) for 1000 sweeps. The simulation started at a sequence with 147 C nucleotides, and was allowed to mutate. It quickly lowers its energy:
 
-![](./Example_Output/Example_Output_Energies.pdf)
+![](https://raw.githubusercontent.com/SchiesselLab/NucleosomeMMC/master/Example_Output/Example_Output_Energies.png)
 
 It does so primarily by changing its sequence away from the C-tract and into something with higher affinity for the nucleosome:
 
