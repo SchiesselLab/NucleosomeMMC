@@ -18,8 +18,6 @@ This is a back-to-basics set of C code performing Mutation Monte Carlo (MMC) on 
     * `MoleculateDynamics`: Parameters for the Rigid Base Pair model derived from molecular dynamics simulations (Lankas et al. 2003).
 - `Example_Output`: Some example output of the program, as described below.
 
-\newpage
-
 ### Example:
 
 As an example, some output is provided, run at beta = 1 (inverse temperature) for 1000 sweeps. The simulation started at a sequence with 147 C nucleotides, and was allowed to mutate. It quickly lowers its energy:
@@ -40,8 +38,6 @@ It does so primarily by changing its sequence away from the C-tract and into som
     08     CGGAAAACGCCCCTACGACGGGTAAGGACGACGTTCCCAGCCGCCCCCCC
     09     CGGAAAACGCCCCTACGACGGACAAGGACGACGTTCCCAGCCGCCCCCGC
     10     CGGAAAACGCCCCTACGACGGACAAGGACGACGTTCCCAGCTGCCCCCGC
-
-\newpage
 
 ### How to compile:
 
